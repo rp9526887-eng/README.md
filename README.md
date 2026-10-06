@@ -9,9 +9,9 @@
 
 ---
 
-## 🚀 What is MUKU EXPLOITS?
+## 🚀 What is JUYEL HACKER?
 
-**MUKU EXPLOITS ** is a next-generation IMEI intelligence platform built for the modern web. Whether you're buying a used phone, verifying device authenticity, or just curious about any mobile device — this tool gives you instant, actionable information.
+**JUYEL HACKER ** is a next-generation IMEI intelligence platform built for the modern web. Whether you're buying a used phone, verifying device authenticity, or just curious about any mobile device — this tool gives you instant, actionable information.
 
 Built with **zero dependencies**, **zero backend**, and **zero tracking** — everything runs locally in your browser for maximum privacy.
 
