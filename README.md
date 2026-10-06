@@ -60,8 +60,8 @@ Test IMEI NUMBER 👇🏻👇🏻👇🏻
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/juyelexploit/juyel-exploits-imei
-cd juyel-exploits
+git clone https://github.com/mukuexploit/juyel-exploits-imei
+cd muku-exploits
 
 # 2. Open directly OR run local server
 python3 -m http.server 8080
